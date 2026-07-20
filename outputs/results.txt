@@ -1,0 +1,6 @@
+Model evaluation results will be stored here.
+
+Example metrics:
+- RMSE
+- MAE
+- R2 Score
