@@ -1,0 +1,5 @@
+This folder stores trained machine learning models.
+
+Example:
+- model.pkl
+- pipeline.joblib
